@@ -2,7 +2,7 @@ package codeup;
 
 import java.util.Scanner;
 
-public class Problem1095 {
+public class Problem1095A {
 	//최소값 구하기!
 	public static void main(String[] args) {
 		//k개의 배열 생성
